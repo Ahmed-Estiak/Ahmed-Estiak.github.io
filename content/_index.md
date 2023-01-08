@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: hmmmm....
+      text: Welcome! I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet.
 
   - block: features
     content:
