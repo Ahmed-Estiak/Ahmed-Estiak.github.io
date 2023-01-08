@@ -67,7 +67,7 @@ sections:
               * 3rd among 72 students (among the top 5% of the students)
               * University scholarships for my result
     design:
-      columns: '3'
+      columns: '2'
 
 
   - block: features
