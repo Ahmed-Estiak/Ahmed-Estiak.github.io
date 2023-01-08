@@ -64,7 +64,7 @@ sections:
               Major Achievements:
 
               * CGPA 3.66 on a scale of 4.00 (so far)
-              * 3rd among 72 students (among the top 5 percent of the students)
+              * among the top 5 percent of the students
               * University scholarships for my result
 
 
