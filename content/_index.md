@@ -39,19 +39,20 @@ sections:
               * CGPA 3.71 on a scale of 4.00 (so far)
               * Highest mark in my MSc thesis work
               * University scholarships for my result
-        - title: Bachelor in Science (Physics)
-          company: Shahjalal University of Science and Technology, Sylhet
+        - title: International School for Young Astronomers
+          company: International Astronomical Union (Summer School)
           company_url: 'https://www.sust.edu/'
-          company_logo: org-x
-          location: Bangladesh
-          date_start: '2013-12-05'
-          date_end: '2019-11-31'
+          company_logo: org-gc
+          location: Yunnan Observatories, Kunming, China
+          date_start: '2019-10-10'
+          date_end: '2019-11-11'
           description: |2-
-              Major Achievements:
+              Description:
 
-              * CGPA 3.66 on a scale of 4.00 (so far)
-              * 3rd among 72 students 
-              * University scholarships for my result
+              * 3-week long
+              * Used 1-m and 60-cm optical telesocope for an astronomy group project 
+              * Highest mark in my MSc thesis work
+              * A total of 130 hours of lectures and training covered a wide range of astronomy topics
 
     design:
       columns: '2'
