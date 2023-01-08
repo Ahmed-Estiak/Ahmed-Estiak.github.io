@@ -52,13 +52,6 @@ sections:
               * CGPA 3.66 on a scale of 4.00 (so far)
               * 3rd among 72 students (among the top 5% of the students)
               * University scholarships for my result
-          description: |2-
-              Description:
-
-              * 3-week long
-              * Used 1-m and 60-cm optical telesocope for an astronomy group project 
-              * Highest mark in my MSc thesis work
-              * A total of 130 hours of lectures and training covered a wide range of astronomy topics
 
     design:
       columns: '2'
