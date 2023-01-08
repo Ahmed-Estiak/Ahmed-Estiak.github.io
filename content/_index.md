@@ -53,19 +53,7 @@ sections:
               * Used 1-m and 60-cm optical telesocope for an astronomy group project 
               * Highest mark in my MSc thesis work
               * A total of 130 hours of lectures and training covered a wide range of astronomy topics
-        - title: Bachelor in Science (Physics)
-          company: Shahjalal University of Science and Technology, Sylhet
-          company_url: 'https://www.sust.edu/'
-          company_logo: org-x
-          location: Bangladesh
-          date_start: '2013-12-05'
-          date_end: '2019-11-31'
-          description: |2-
-              Major Achievements:
 
-              * CGPA 3.66 on a scale of 4.00 (so far)
-              * 3rd among 72 students (among the top 5% of the students)
-              * University scholarships for my result
     design:
       columns: '2'
 
