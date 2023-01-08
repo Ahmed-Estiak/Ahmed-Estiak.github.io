@@ -14,60 +14,6 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: Welcome! I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet.
 
-  - block: experience
-    content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Master in Science (Physics)
-          company: Shahjalal University of Science and Technology, Sylhet
-          company_url: 'https://www.sust.edu/'
-          company_logo: org-gc
-          location: Bangladesh
-          date_start: '2019-04-04'
-          date_end: '2022-05-05'
-          description: |2-
-              Major Achievements:
-
-              * CGPA 3.71 on a scale of 4.00 (so far)
-              * Highest mark in my MSc thesis work
-              * University scholarships for my result
-        - title: International School for Young Astronomers
-          company: International Astronomical Union (Summer School)
-          company_url: 'https://www.sust.edu/'
-          company_logo: org-gc
-          location: Yunnan Observatories, Kunming, China
-          date_start: '2019-10-10'
-          date_end: '2019-11-11'
-          description: |2-
-              Description:
-
-              * 3-week long
-              * Used 1-m and 60-cm optical telesocope for an astronomy group project 
-              * Highest mark in my MSc thesis work
-              * A total of 130 hours of lectures and training covered a wide range of astronomy topics
-        - title: Bachelor in Science (Physics)
-          company: Shahjalal University of Science and Technology, Sylhet
-          company_url: 'https://www.sust.edu/'
-          company_logo: org-x
-          location: Bangladesh
-          date_start: '2013-12-05'
-          date_end: '2019-11-31'
-          description: |2-
-              Major Achievements:
-
-              * CGPA 3.66 on a scale of 4.00 (so far)
-              * 3rd among 72 students (among the top 5% of the students)
-              * University scholarships for my result
-    design:
-      columns: '2'
 
   - block: features
     content:
@@ -85,7 +31,41 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
