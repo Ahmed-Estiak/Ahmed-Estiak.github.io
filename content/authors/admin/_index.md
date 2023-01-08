@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ahmed Estiak
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ahmed
+last_name: Estiak
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️🌌
 
 # Is this the primary user of the site?
 superuser: true
