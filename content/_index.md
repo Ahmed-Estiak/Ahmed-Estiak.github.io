@@ -5,13 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: github.tontus.block-one
+    Content: habsfmlijabi
+    Title: Hablaskfijabi
+      
   - block: about.avatar
     id: about
+    class: k
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:
+      text: hmmmm....
+
   - block: features
     content:
       title: Skills
@@ -80,7 +86,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization: a
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
