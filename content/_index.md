@@ -14,7 +14,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: Welcome! I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet.
 
-  - block: Education
+  - block: Experience
     content:
       title: Education
       # Date format for experience
