@@ -1,6 +1,6 @@
 ---
 title:  BD And- a Detached System and Photometric LCs
-summary: An example of using the in-built project page.
+summary: A group project of the 42nd International School for Young Astronomers. We have done a photometric analysis of EA type eclipsing binary system (BD And)
 tags:
   - Astronomy
 date: '2019-10-20T00:00:00Z'
