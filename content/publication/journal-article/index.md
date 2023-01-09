@@ -21,9 +21,7 @@ publication: "31st International Astronomical Union General Assembly"
 publication_short: "Investigating the effect of using the “Talking Planets” mobile application
 to increase students’ engagement and knowledge of astronomy"
 
-abstract: This study examines the effect of the “Talking Planets” android mobile application (funded by the International Astronomical Union’s Office of Astronomy for Development) on school students from 4th to 9th grade and their attitude toward the application. Talking Planets is an educational android mobile application (currently in beta version, not available in Google play store yet) to make school children aware of astronomy, more specifically the planets of our solar system. This mobile application presents different planets as funny characters and students will be able to chat with these characters and find out about them by asking different questions. That is, the characters of the planets will behave like chatbots.
-
-In this study, students (n=79) from two schools used our developed mobile application, Talking Planets. The
+abstract: This study examines the effect of the “Talking Planets” android mobile application (funded by the International Astronomical Union’s Office of Astronomy for Development) on school students from 4th to 9th grade and their attitude toward the application. Talking Planets is an educational android mobile application (currently in beta version, not available in Google play store yet) to make school children aware of astronomy, more specifically the planets of our solar system. This mobile application presents different planets as funny characters and students will be able to chat with these characters and find out about them by asking different questions. That is, the characters of the planets will behave like chatbots. In this study, students (n=79) from two schools used our developed mobile application, Talking Planets. The
 study was conducted on 15 and 17 March 2022. The study investigated whether students learned anything new
 about astronomy after using our mobile application. Students' knowledge of astronomy was assessed before
 and after using the mobile application by providing the same question paper. 47.1% of students were able to
@@ -34,8 +32,7 @@ students toward the mobile application was evaluated by an anonymous survey form
 very positive attitude toward using the mobile application, its effectiveness, and user-friendliness.
 
 # Summary. An optional shortened abstract.
-summary: Investigating the effect of using the “Talking Planets” mobile application
-to increase students’ engagement and knowledge of astronomy
+summary: Investigating the effect of using the “Talking Planets” mobile application to increase students’ engagement and knowledge of astronomy
 
 tags:
 - Source Themes
