@@ -6,7 +6,7 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - S.B. Faruque
 
 # Author notes (optional)
 author_notes:
@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In New Astronomy
-publication_short: Elsevier
+publication_short: New Astronomy, Elsevier
 
 abstract: We have found an approximate solution of Dirac equation using Foldy-Wouthuysen-Tani Hamiltonian of a Dirac particle in the Kerr gravitational field. We have solved the equation approximately using time-independent perturbation theory for the positive energy states. We have found frequencies by which these states oscillate. Difference of the periods of any of these two states has an identical form of the classical gravitomagnetic clock effect where the terms are quantized. So that, we have found a quantum version of the gravitomagnetic clock effect of a Dirac fermion in the Kerr gravitational field.
 
@@ -44,14 +44,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+#url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_project: ''
+#url_slides: ''
+url_source: 'https://doi.org/10.1016/j.newast.2020.101547'
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

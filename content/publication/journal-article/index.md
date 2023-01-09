@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Conference Publication"
 authors:
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "First author"
+date: "2022-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +17,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "31st International Astronomical Union General Assembly"
+publication_short: "Investigating the effect of using the “Talking Planets” mobile application
+to increase students’ engagement and knowledge of astronomy"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study examines the effect of the “Talking Planets” android mobile application (funded by the International Astronomical Union’s Office of Astronomy for Development) on school students from 4th to 9th grade and their attitude toward the application. Talking Planets is an educational android mobile application (currently in beta version, not available in Google play store yet) to make school children aware of astronomy, more specifically the planets of our solar system. This mobile application presents different planets as funny characters and students will be able to chat with these characters and find out about them by asking different questions. That is, the characters of the planets will behave like chatbots.
+
+In this study, students (n=79) from two schools used our developed mobile application, Talking Planets. The
+study was conducted on 15 and 17 March 2022. The study investigated whether students learned anything new
+about astronomy after using our mobile application. Students' knowledge of astronomy was assessed before
+and after using the mobile application by providing the same question paper. 47.1% of students were able to
+increase their knowledge assessment performance, 35.44% of students' performance did not change, and the
+remaining 16.46% of students' performance was decreased. The outcomes suggest that this application has
+great potential to increase the knowledge of astronomy among school students. The attitude of the school
+students toward the mobile application was evaluated by an anonymous survey form. The students showed
+very positive attitude toward using the mobile application, its effectiveness, and user-friendliness.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Investigating the effect of using the “Talking Planets” mobile application
+to increase students’ engagement and knowledge of astronomy
 
 tags:
 - Source Themes
@@ -34,19 +44,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.iauga2022.org/download/IAUGA%202022_Program%20at%20a%20Glance_220623.pdf?ver=6
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
