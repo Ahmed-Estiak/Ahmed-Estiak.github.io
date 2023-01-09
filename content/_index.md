@@ -17,7 +17,7 @@ sections:
   - block: experience
     id: Fellowship
     content:
-      title: Education
+      title: Fellowship
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -42,6 +42,7 @@ sections:
 
     design:
       columns: '2'
+
   - block: experience
     id: Education
     content:
