@@ -19,7 +19,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://Ahmed-Estiak.github.io/publication/conference-paper/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://Ahmed-Estiak.github.io/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Quantum gravitomagnetic clock effect in Kerr gravitational field</title><link>https://Ahmed-Estiak.github.io/publication/conference-paper/</link><pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate><guid>https://Ahmed-Estiak.github.io/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -176,7 +176,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-579316248" class="chart">&lt;/div>
+&lt;div id="chart-879436215" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -185,7 +185,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-579316248', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-879436215', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
