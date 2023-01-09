@@ -23,10 +23,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In New Astronomy
+publication: New Astronomy (Elsevier)
 publication_short: New Astronomy, Elsevier
 
 abstract: We have found an approximate solution of Dirac equation using Foldy-Wouthuysen-Tani Hamiltonian of a Dirac particle in the Kerr gravitational field. We have solved the equation approximately using time-independent perturbation theory for the positive energy states. We have found frequencies by which these states oscillate. Difference of the periods of any of these two states has an identical form of the classical gravitomagnetic clock effect where the terms are quantized. So that, we have found a quantum version of the gravitomagnetic clock effect of a Dirac fermion in the Kerr gravitational field.
@@ -58,7 +58,7 @@ url_source: 'https://doi.org/10.1016/j.newast.2020.101547'
 image:
   caption: 
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -74,14 +74,14 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
----
+#---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the _Slides_ button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
