@@ -22,7 +22,7 @@ organizations:
     url: https://www.sust.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome! I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet. 
+bio: Let's explore our universe. Together!
 
 # Interests to show in About widget
 interests:
