@@ -15,6 +15,34 @@ sections:
       text: Welcome! I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet.
 
   - block: experience
+    id: Fellowship
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: NST Research Fellow
+          company: National Science and Technology Ministry, Bangladesh
+          company_url: 'http://103.69.149.45:9207/en/services/most/nst-fellowship'
+          company_logo: org-gc
+          location: Bangladesh
+          date_start: '2020-01-01'
+          date_end: '2020-12-01'
+          description: |2-
+
+              * Received this fellowship for the research of my MSc thesis.
+
+
+
+    design:
+      columns: '2'
+  - block: experience
     id: Education
     content:
       title: Education
@@ -52,7 +80,6 @@ sections:
 
               * 3-week long
               * Used 1-m and 60-cm optical telesocope for an astronomy group project 
-              * Highest mark in my MSc thesis work
               * A total of 130 hours of lectures and training covered a wide range of astronomy topics
         - title: Bachelor in Science (Physics)
           company: Shahjalal University of Science and Technology, Sylhet
@@ -65,7 +92,7 @@ sections:
               Major Achievements:
 
               * CGPA 3.66 on a scale of 4.00 (so far)
-              * 3rd among 72 students (among the top 5 percent of the students)
+              * Among the top 5 percent of the students
               * University scholarships for my result
 
 
