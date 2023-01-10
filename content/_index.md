@@ -171,7 +171,7 @@ sections:
 
   - block: experience
     content:
-      title: Experience
+      title: Certification
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -181,68 +181,72 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: OASIS Basic Patent Course (Credential ID- KIPA-21-033)
+          company: Ministry of Justice, Republic of Korea
+          company_url: 'http://www.oasisvisa.com/about.html'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Seoul, South Korea
+          date_start: ''
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              
+        - title: OASIS Advanced Intellectual Property Course
+          company: Ministry of Justice, Republic of Korea
+          company_url: 'https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Seoul, South Korea
+          date_start: ''
+          date_end: ''
+          description: 
+        - title: Start-up Course
+          company: Korea Productivity Centre
+          company_url: 'https://eng.kpc.or.kr/eng/'
+          company_logo: org-x
+          location: Seoul, South Korea
+          date_start: ''
+          date_end: ''
+          description: 
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certification'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: http://www.oasisvisa.com/about.html
-          date_end: ''
-          date_start: '2021-03-03'
-          description: ''
-          organization: Ministry of Justice, Republic of Korea
-          organization_url: http://www.oasisvisa.com/about.html
-          title: OASIS Basic Patent Course (Credential ID- KIPA-21-033)
-          url: http://www.oasisvisa.com/about.html
-        - certificate_url: https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf
-          date_end: ''
-          date_start: '2021-03-01'
-          description: ''
-          organization: Ministry of Justice, Republic of Korea
-          organization_url: https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf
-          title: OASIS Advanced Intellectual Property Course
-          url: http://www.oasisvisa.com/
-        - certificate_url: https://eng.kpc.or.kr/eng/
-          date_end: ''
-          date_start: '2021-03-01'
-          description: ''
-          organization: Korea Productivity Centre
-          organization_url: https://eng.kpc.or.kr/eng/
-          title: Start-up Course
-          url: ''
-    design:
-      columns: '2'
+  #- block: accomplishments
+    #content:
+      ## Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      #title: 'Certification'
+      #subtitle:
+      ## Date format: https://wowchemy.com/docs/customization/#date-format
+      #date_format: Jan 2006
+      ## Accomplishments.
+      ##   Add/remove as many `item` blocks below as you like.
+      ##   `title`, `organization`, and `date_start` are the required parameters.
+      ##   Leave other parameters empty if not required.
+      ##   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      #items:
+        #- certificate_url: http://www.oasisvisa.com/about.html
+          #date_end: ''
+          #date_start: '2021-03-03'
+          #description: ''
+          #organization: Ministry of Justice, Republic of Korea
+          #organization_url: http://www.oasisvisa.com/about.html
+          #title: OASIS Basic Patent Course (Credential ID- KIPA-21-033)
+          #url: http://www.oasisvisa.com/about.html
+        #- certificate_url: https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf
+          #date_end: ''
+          #date_start: '2021-03-01'
+          #description: ''
+          #organization: Ministry of Justice, Republic of Korea
+          #organization_url: https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf
+          #title: OASIS Advanced Intellectual Property Course
+          #url: http://www.oasisvisa.com/
+        #- certificate_url: https://eng.kpc.or.kr/eng/
+          #date_end: ''
+          #date_start: '2021-03-01'
+          #description: ''
+          #organization: Korea Productivity Centre
+          #organization_url: https://eng.kpc.or.kr/eng/
+          #title: Start-up Course
+          #url: ''
+    #design:
+      #columns: '2'
 
   #- block: collection
     #id: posts
@@ -280,21 +284,21 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: collection
+    #id: talks
+    #content:
+      #title: Recent & Upcoming Talks
+      #filters:
+        #folders:
+          #- event
+    #design:
+      #columns: '2'
+      #view: compact
+  #- block: tag_cloud
+    #content:
+      #title: Popular Topics
+    #design:
+      #columns: '2'
   - block: contact
     id: contact
     content:
