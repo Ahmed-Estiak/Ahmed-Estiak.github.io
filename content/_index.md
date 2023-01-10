@@ -219,7 +219,7 @@ sections:
       items:
         - certificate_url: http://www.oasisvisa.com/about.html
           date_end: ''
-          date_start: '2021-03-25'
+          date_start: '2021-03-03'
           description: ''
           organization: Ministry of Justice, Republic of Korea
           organization_url: http://www.oasisvisa.com/about.html
@@ -235,7 +235,7 @@ sections:
           url: http://www.oasisvisa.com/
         - certificate_url: https://eng.kpc.or.kr/eng/
           date_end: ''
-          date_start: ''
+          date_start: '2021-03-01'
           description: ''
           organization: Korea Productivity Centre
           organization_url: https://eng.kpc.or.kr/eng/
