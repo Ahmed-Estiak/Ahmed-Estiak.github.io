@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Early career astrophysics researcher and communicator
+role: Early career astrophysics researcher and science communicator
 
 # Organizations/Affiliations to show in About widget
 organizations:
