@@ -224,11 +224,11 @@ sections:
           organization: Ministry of Justice, Republic of Korea
           organization_url: http://www.oasisvisa.com/about.html
           title: OASIS Basic Patent Course (Credential ID- KIPA-21-033)
-          url: 
+          url: http://www.oasisvisa.com/about.html
         - certificate_url: https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf
           date_end: ''
           date_start: '2021-03-01'
-          description: 
+          description: ''
           organization: Ministry of Justice, Republic of Korea
           organization_url: https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf
           title: OASIS Advanced Intellectual Property Course
