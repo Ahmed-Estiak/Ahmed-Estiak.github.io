@@ -186,7 +186,7 @@ sections:
           company_url: 'http://www.oasisvisa.com/about.html'
           company_logo: org-gc
           location: Seoul, South Korea
-          date_start: ''
+          date_start: '2021-03-03'
           date_end: ''
           description: |2-
               
@@ -195,7 +195,7 @@ sections:
           company_url: 'https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf'
           company_logo: org-x
           location: Seoul, South Korea
-          date_start: ''
+          date_start: '2021-03-03'
           date_end: ''
           description: 
         - title: Start-up Course
@@ -203,7 +203,7 @@ sections:
           company_url: 'https://eng.kpc.or.kr/eng/'
           company_logo: org-x
           location: Seoul, South Korea
-          date_start: ''
+          date_start: '2021-03-03'
           date_end: ''
           description: 
     design:
