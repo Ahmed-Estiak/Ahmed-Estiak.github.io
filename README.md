@@ -1,4 +1,4 @@
-# [Ahmed Estiak](https://www.ahmed-estiak.github.io)
+# [Ahmed Estiak](https://ahmed-estiak.github.io)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
