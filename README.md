@@ -1,4 +1,4 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# [Ahmed Estiak](https://www.ahmed-estiak.github.io)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
