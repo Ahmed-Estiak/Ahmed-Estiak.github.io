@@ -9,8 +9,8 @@ jobs:
     if: github.repository_owner == 'wowchemy'
     runs-on: ubuntu-latest
     steps:
-      - uses: wowchemy/gh-action-updater@v1
+      - uses: 
         with:
-          feed-url: https://wowchemy.com/blog/index.xml
+          feed-url: 
           readme-section: news
           branch: main
