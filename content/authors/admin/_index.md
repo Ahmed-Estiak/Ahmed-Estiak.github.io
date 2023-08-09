@@ -22,7 +22,7 @@ organizations:
     url: https://www.sust.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Let's explore our universe. Together!
+bio: Let's explore our universe. Together!!
 
 # Interests to show in About widget
 interests:
