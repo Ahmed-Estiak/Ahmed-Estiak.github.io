@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Early career astrophysics researcher and science communicator
+role: Early career astrophysics researcher/enthusiast and science communicator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,17 +26,17 @@ bio: Let's explore our universe. Together!
 
 # Interests to show in About widget
 interests:
-  - Astrophysics (Early universe, Lambda CDM, Computational astrophysics)
+  - Astrophysics (Early universe, Lambda CDM, Computational astrophysics, AGN, Active Galactic Nuclie, Gravitational Wave)
   - Particle physics (CP symmetry, Physics beyond Standard Model)
   - Science outreach (Talking Planets- Astronomoy App)
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Science (Physics)
+    - course: Master of Science (Physics)
       institution: Shahjalal University of Science and Technology, Sylhet
       year: 2023
-    - course: Bachelor in Science (Physics)
+    - course: Bachelor of Science (Physics)
       institution: Shahjalal University of Science and Technology, Sylhet
       year: 2019
 
@@ -57,9 +57,9 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     #icon_pack: fas
     #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-    #icon_pack: fab
-    #link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Ahmed-Estiak
   # - icon: linkedin
     #icon_pack: fab
     #link: https://www.linkedin.com/
@@ -71,11 +71,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ahmedestiak14@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet. 
+I am Ahmed Estiak, a young researcher. I have very broad interest area. I am very much enthusiast in AGN, Galaxy Mergers, Galaxy evolution, gravitational wave research and theoretical study of Gravitomagnetic Clock Effect. I have received my BSc and MS in Physics from Shahjalal University of Science and Technology, Sylhet. 
 {style="text-align: justify;"}
