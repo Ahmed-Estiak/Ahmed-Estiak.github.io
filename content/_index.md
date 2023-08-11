@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: I am Ahmed Estiak, a student and young researcher. I have very broad interest area. I am very much enthusiast in AGN, Galaxy Mergers, Galaxy evolution, gravitational wave research, Machine Learning and theoretical study of Gravitomagnetic Clock Effect. I have received my BSc and MS in Physics from Shahjalal University of Science and Technology, Sylhet. 
+      text: I am Ahmed Estiak, a student and young researcher. I have very broad interest area. I am very much enthusiast in AGN, Galaxy Mergers, Galaxy Evolution, Gravitational Wave Research, Machine Learning and theoretical study of Gravitomagnetic Clock Effect. I have received my BSc and MS in Physics from Shahjalal University of Science and Technology, Sylhet. 
 
   - block: experience
     id: Fellowship
