@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: Welcome! I am Ahmed Estiak, a young researcher. I am interested in physics and astrophysics. I completed my Physics undergraduate from Shahjalal University of Science and Technology, Sylhet. 
+      text: I am Ahmed Estiak, a young researcher. I have very broad interest area. I am very much enthusiast in AGN, Galaxy Mergers, Galaxy evolution, gravitational wave research and theoretical study of Gravitomagnetic Clock Effect. I have received my BSc and MS in Physics from Shahjalal University of Science and Technology, Sylhet. 
 
   - block: experience
     id: Fellowship
@@ -33,10 +33,10 @@ sections:
           company_logo: org-gc
           location: Bangladesh
           date_start: '2020-01-01'
-          date_end: '2020-12-01'
+          date_end: '2020-12-31'
           description: |2-
 
-              * Received this fellowship for the research of my MSc thesis.
+              * Received this fellowship for the research of my MS thesis.
 
 
 
@@ -80,19 +80,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master in Science (Physics)
+        - title: Master of Science (Physics)
           company: Shahjalal University of Science and Technology, Sylhet
           company_url: 'https://www.sust.edu/'
-          company_logo: org-gc
+          company_logo: org-x
           location: Bangladesh
           date_start: '2019-04-04'
           date_end: '2022-05-05'
           description: |2-
               Major Achievements:
-
-              * CGPA 3.71 on a scale of 4.00 (so far)
-              * Highest mark in my MSc thesis work
-              * University scholarships for my result
+              * CGPA 3.71 on a scale of 4.00
+              * Obtained highest mark in MS thesis work
+              * Received university scholarships for my result
         - title: International School for Young Astronomers
           company: International Astronomical Union (Summer School)
           company_url: 'https://www.sust.edu/'
@@ -102,8 +101,7 @@ sections:
           date_end: '2019-11-11'
           description: |2-
               Description:
-
-              * 3-week long
+              * 3-week long summer school
               * Used 1-m and 60-cm optical telesocope for an astronomy group project 
               * A total of 130 hours of lectures and training covered a wide range of astronomy topics
         - title: Bachelor in Science (Physics)
@@ -112,13 +110,12 @@ sections:
           company_logo: org-x
           location: Bangladesh
           date_start: '2013-12-11'
-          date_end: '2019-11-11'
+          date_end: '2019-04-04'
           description: |2-
               Major Achievements:
-
-              * CGPA 3.66 on a scale of 4.00 (so far)
+              * CGPA 3.66 on a scale of 4.00
               * Among the top 5 percent of the students
-              * University scholarships for my result
+              * Received university scholarships for my result
 
 
     design:
