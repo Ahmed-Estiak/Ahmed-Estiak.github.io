@@ -30,7 +30,7 @@ sections:
         - title: NST Research Fellow
           company: National Science and Technology Ministry, Bangladesh
           company_url: 'http://103.69.149.45:9207/en/services/most/nst-fellowship'
-          company_logo: org-gc
+          company_logo: nst
           location: Bangladesh
           date_start: '2020-01-01'
           date_end: '2020-12-31'
