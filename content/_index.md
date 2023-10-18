@@ -104,7 +104,7 @@ sections:
               * 3-week long summer school
               * Used 1-m and 60-cm optical telesocope for an astronomy group project 
               * A total of 130 hours of lectures and training covered a wide range of astronomy topics
-        - title: Bachelor in Science (Physics)
+        - title: Bachelor of Science (Physics)
           company: Shahjalal University of Science and Technology, Sylhet
           company_url: 'https://www.sust.edu/'
           company_logo: org-x
