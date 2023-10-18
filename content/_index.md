@@ -84,7 +84,7 @@ sections:
           company: Shahjalal University of Science and Technology, Sylhet
           company_url: 'https://www.sust.edu/'
           company_logo: org-x
-          location: Bangladesh
+          location: Bangladesh 
           date_start: '2019-04-04'
           date_end: '2022-05-05'
           description: |2-
