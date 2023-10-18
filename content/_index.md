@@ -181,7 +181,7 @@ sections:
         - title: OASIS Basic Patent Course (Credential ID- KIPA-21-033)
           company: Ministry of Justice, Republic of Korea
           company_url: 'http://www.oasisvisa.com/about.html'
-          company_logo: org-gc
+          company_logo: korea
           location: Seoul, South Korea
           date_start: '2021-03-03'
           date_end: ''
@@ -190,7 +190,7 @@ sections:
         - title: OASIS Advanced Intellectual Property Course
           company: Ministry of Justice, Republic of Korea
           company_url: 'https://grad.smu.ac.kr/_attach/file/2021/10//QcHEPJnaLPXzOGNpeHMS.pdf'
-          company_logo: org-x
+          company_logo: korea
           location: Seoul, South Korea
           date_start: '2021-03-03'
           date_end: ''
@@ -198,7 +198,7 @@ sections:
         - title: Start-up Course
           company: Korea Productivity Centre
           company_url: 'https://eng.kpc.or.kr/eng/'
-          company_logo: org-x
+          company_logo: kpc
           location: Seoul, South Korea
           date_start: '2021-03-03'
           date_end: ''
