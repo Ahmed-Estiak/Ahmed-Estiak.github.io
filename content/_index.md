@@ -302,7 +302,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am waiting for your letter!
+        I am waiting for your message!
       # Contact (add or remove contact options as necessary)
       email: ahmedestiak14@gmail.com
       #phone: 888 888 88 88
