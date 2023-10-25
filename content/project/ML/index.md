@@ -6,7 +6,7 @@ tags:
 date: '2023-10-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.researchgate.net/publication/374751989_Classification_of_Galaxies_Stars_and_Quasars_from_Sloan_Digital_Sky_Survey_Data_Release_17_Using_Different_Machine_Learning_Techniques?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0'
 
 image:
   caption: Photo by rawpixel on Unsplash
